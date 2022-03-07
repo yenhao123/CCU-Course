@@ -1,0 +1,24 @@
+hr{
+	filter: progid:dximagetransform.microsoft.glow(color="#987cb9",strength=10); 
+	width="95%";
+	color="#987cb9"; 
+	size=1;
+}
+
+h2,h4,h5,p{
+	margin: 5px 10px;
+}
+
+#pointer{
+	position:absolute;
+	width:150px;
+	height:150px;
+	z-index:1;
+}
+
+#rotate{
+	position:absolute;
+	width:300px;
+	height:300px;
+	z-index:2;
+}
