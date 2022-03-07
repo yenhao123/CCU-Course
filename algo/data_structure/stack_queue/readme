@@ -1,0 +1,11 @@
+stack 應用
+* compiler parser
+* 迴文檢查(palindrome)
+* DFS
+* maze problem
+* 8皇后、西洋棋
+* stack permutuation
+
+queue應用
+* bfs
+* os scheduling
